@@ -1,0 +1,20 @@
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\bin\Debug\par_impar.exe.config
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\bin\Debug\par_impar.exe
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\bin\Debug\par_impar.pdb
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.Form1.resources
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.Properties.Resources.resources
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.csproj.GenerateResource.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.csproj.CoreCompileInputs.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.exe
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.pdb
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\bin\Debug\par_impar.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\bin\Debug\par_impar.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\bin\Debug\par_impar.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.Form1.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.Properties.Resources.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.csproj.GenerateResource.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\par_impar\par_impar\obj\Debug\par_impar.pdb
